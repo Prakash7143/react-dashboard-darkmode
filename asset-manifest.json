@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-dashboard-darkmode/static/css/main.9ff8afc2.css",
+    "main.js": "/react-dashboard-darkmode/static/js/main.5eacb2de.js",
+    "static/media/bard.jpg": "/react-dashboard-darkmode/static/media/bard.efa2bbf435493424f145.jpg",
+    "index.html": "/react-dashboard-darkmode/index.html",
+    "main.9ff8afc2.css.map": "/react-dashboard-darkmode/static/css/main.9ff8afc2.css.map",
+    "main.5eacb2de.js.map": "/react-dashboard-darkmode/static/js/main.5eacb2de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff8afc2.css",
+    "static/js/main.5eacb2de.js"
+  ]
+}
